@@ -2,7 +2,7 @@ import React from "react";
 import { GlobalStyle } from "./ui-components/globalStyle";
 import BaseContainer from "./ui-components/baseContainer";
 import TopHeader from "./ui-components/topHeader";
-import "./index.css";
+
 import GitHubContainer from "./ui-components/gitHubContainer";
 import LinkedInComponent from "./ui-components/LinkedInComponent";
 import DevToContainer from "./ui-components/devToContainer";

@@ -72,7 +72,7 @@ const ProjectContainer = props => {
 
   const ProjectHead = styled.h1`
     display: block;
-    font-size: 62px;
+    font-size: 52px;
     padding: 20px;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -94,13 +94,13 @@ const ProjectContainer = props => {
     }
 
     @media (max-width: 1198px) {
-      font-size: 49px;
+      font-size: 41px;
       &::after {
       }
     }
 
     @media (max-width: 993px) {
-      font-size: 32px;
+      font-size: 24px;
     }
 
     @media (max-width: 768px) {

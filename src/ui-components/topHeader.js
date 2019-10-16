@@ -58,7 +58,7 @@ const TopHeader = props => {
       background-color: rgb(69, 72, 92);
       position: absolute;
       width: 1px;
-      height: 81%;
+      height: 76%;
       top: 0px;
       right: -15%;
       display: block;
@@ -67,14 +67,14 @@ const TopHeader = props => {
     @media (max-width: 1196px) {
       &::after {
         right: -40%;
-        height: 62%;
+        height: 55%;
       }
     }
 
     @media (max-width: 996px) {
       &::after {
         right: -82%;
-        height: 52%;
+        height: 48%;
       }
     }
 

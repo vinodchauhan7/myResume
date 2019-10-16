@@ -11,7 +11,7 @@ const ExperienceContainer = props => {
 
   const GitHubHead = styled.h1`
     display: block;
-    font-size: 60px;
+    font-size: 50px;
     padding: 20px;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -38,13 +38,13 @@ const ExperienceContainer = props => {
     }
 
     @media (max-width: 1198px) {
-      font-size: 47px;
+      font-size: 37px;
       &::after {
       }
     }
 
     @media (max-width: 993px) {
-      font-size: 35px;
+      font-size: 30px;
     }
 
     @media (max-width: 768px) {
@@ -53,7 +53,7 @@ const ExperienceContainer = props => {
   `;
 
   const ColStyles1 = styled(Col)`
-    margin-left: 10%;
+    margin-left: 7%;
     margin-top: 20px;
   `;
 
