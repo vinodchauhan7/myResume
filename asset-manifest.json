@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/myResume/static/css/main.4c48667a.chunk.css",
-    "main.js": "/myResume/static/js/main.0498a5a1.chunk.js",
-    "main.js.map": "/myResume/static/js/main.0498a5a1.chunk.js.map",
-    "runtime-main.js": "/myResume/static/js/runtime-main.01fabbec.js",
-    "runtime-main.js.map": "/myResume/static/js/runtime-main.01fabbec.js.map",
-    "static/css/2.0624914a.chunk.css": "/myResume/static/css/2.0624914a.chunk.css",
-    "static/js/2.68bb60b6.chunk.js": "/myResume/static/js/2.68bb60b6.chunk.js",
-    "static/js/2.68bb60b6.chunk.js.map": "/myResume/static/js/2.68bb60b6.chunk.js.map",
-    "index.html": "/myResume/index.html",
-    "precache-manifest.8467800ad0b6b35d05f6a3c8bd0f05ba.js": "/myResume/precache-manifest.8467800ad0b6b35d05f6a3c8bd0f05ba.js",
-    "service-worker.js": "/myResume/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/myResume/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.4c48667a.chunk.css.map": "/myResume/static/css/main.4c48667a.chunk.css.map"
+    "main.css": "/MYRESUME/static/css/main.4c48667a.chunk.css",
+    "main.js": "/MYRESUME/static/js/main.0498a5a1.chunk.js",
+    "main.js.map": "/MYRESUME/static/js/main.0498a5a1.chunk.js.map",
+    "runtime-main.js": "/MYRESUME/static/js/runtime-main.4e1cfff8.js",
+    "runtime-main.js.map": "/MYRESUME/static/js/runtime-main.4e1cfff8.js.map",
+    "static/css/2.0624914a.chunk.css": "/MYRESUME/static/css/2.0624914a.chunk.css",
+    "static/js/2.b6b304a2.chunk.js": "/MYRESUME/static/js/2.b6b304a2.chunk.js",
+    "static/js/2.b6b304a2.chunk.js.map": "/MYRESUME/static/js/2.b6b304a2.chunk.js.map",
+    "index.html": "/MYRESUME/index.html",
+    "precache-manifest.994b4816aa8b17812f81c42f12647baa.js": "/MYRESUME/precache-manifest.994b4816aa8b17812f81c42f12647baa.js",
+    "service-worker.js": "/MYRESUME/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/MYRESUME/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.4c48667a.chunk.css.map": "/MYRESUME/static/css/main.4c48667a.chunk.css.map"
   }
 }
