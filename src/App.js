@@ -28,8 +28,8 @@ function App() {
       <BaseContainer>
         <TopHeader></TopHeader>
         <LinkedInComponent></LinkedInComponent>
-        <GitHubContainer></GitHubContainer>
-        <DevToContainer></DevToContainer>
+        <GitHubContainer id="gitHub"></GitHubContainer>
+        <DevToContainer id="devTo"></DevToContainer>
         <ExpertiseContainer></ExpertiseContainer>
         <ProjectContainer></ProjectContainer>
         <ExperienceContainer></ExperienceContainer>

@@ -43,7 +43,7 @@ const ExperienceContainer = props => {
       color: white;
     }
 
-    .fa-youtube {
+    .fa-youtube1 {
       background: rgb(69, 72, 92);
       color: white;
     }
@@ -64,7 +64,7 @@ const ExperienceContainer = props => {
       <Row style={{ display: "flex", marginBottom: "20px" }}>
         <ColStyles>
           <span className="fa fa-facebook "></span>
-          <span className="fa fa-google "></span>
+          <span className="fa fa-angellist "></span>
           <span className="fa fa-linkedin "></span>
           <span className="fa fa-youtube "></span>
         </ColStyles>

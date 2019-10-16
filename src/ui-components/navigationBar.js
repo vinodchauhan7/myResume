@@ -45,7 +45,7 @@ const NavigationBar = () => {
       color: white;
     }
 
-    .fa-youtube {
+    .fa-youtube1 {
       background: rgb(69, 72, 92);
       color: white;
     }
@@ -80,22 +80,31 @@ const NavigationBar = () => {
           <Nav.Link href="#">Home</Nav.Link>
         </Nav.Item>
         <Nav.Item className="menu1">
-          <Nav.Link href="#">GitHub</Nav.Link>
+          <Nav.Link href="https://github.com/vinodchauhan7">GitHub</Nav.Link>
         </Nav.Item>
         <Nav.Item className="menu1">
-          <Nav.Link href="#">Articles</Nav.Link>
+          <Nav.Link href="https://dev.to/vinodchauhan7">Articles</Nav.Link>
         </Nav.Item>
         <Nav.Item className="menu1">
           <Nav.Link href="#">About Me</Nav.Link>
         </Nav.Item>
         <Nav.Item className="socialIcon">
-          <Nav.Link href="#" className="fa fa-facebook "></Nav.Link>
+          <Nav.Link
+            href="https://www.facebook.com/VINODCHAUHAN786"
+            className="fa fa-facebook "
+          ></Nav.Link>
         </Nav.Item>
         <Nav.Item className="socialIcon">
-          <Nav.Link href="#" className="fa fa-google "></Nav.Link>
+          <Nav.Link
+            href="https://twitter.com/vinodc45"
+            className="fa fa-twitter "
+          ></Nav.Link>
         </Nav.Item>
         <Nav.Item className="socialIcon">
-          <Nav.Link href="#" className="fa fa-linkedin "></Nav.Link>
+          <Nav.Link
+            href="https://www.linkedin.com/in/vinod-chauhan7/"
+            className="fa fa-linkedin "
+          ></Nav.Link>
         </Nav.Item>
         <Nav.Item className="socialIcon">
           <Nav.Link href="#" className="fa fa-youtube "></Nav.Link>
