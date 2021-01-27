@@ -8,7 +8,7 @@ const ProjectList = [
     description:
       "NSO delivers high-quality services faster and more easily through network automation.",
     technology:
-      "NSO,ReactJS, React-Hooks, Graphql, Java, Yang, NodeJS, React-BootStrap, Mpls-L2-Layer & more.",
+      "NSO,ReactJS, React-Hooks, DJango, Yang, React-BootStrap, Mpls-L2-Layer & more.",
     role:
       "Being a full-stack developer on client location, I have worked on both provisioning & reconciling part of Airtel network of L2 layer."
   },
